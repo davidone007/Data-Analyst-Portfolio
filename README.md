@@ -5,7 +5,7 @@ Hi! I'm Davide Flamini Cazaran, a student at Icesi University passionate about d
 
 ## 📂 Projects
 ### 📌 **Projects in Development**
-I am currently working on several projects, but here are two completed ones:
+I am currently working on several projects, I will leave the ones I have completed:
 
 ### 1️⃣ **Image Compression**
 - **Description**: Implemented an image compression algorithm to reduce file sizes while maintaining quality.
@@ -16,6 +16,12 @@ I am currently working on several projects, but here are two completed ones:
 - **Description**: Developed a machine learning model to analyze sentiment from text data.
 - **Tech Stack**: Python, Scikit-learn, Natural Language Processing (NLP)
 - **Repo**: [GitHub Link](https://github.com/davidone007/Sentiment-Analysis-Model)
+
+### 3️⃣ **FIFA 23 Data Analysis**
+- **Description**: Exploratory data analysis on FIFA 23 player statistics to identify trends and insights.
+- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn
+- **Repo**: [GitHub Link](https://github.com/davidone007/Fifa23-Scouting-Data-Analysis)
+- **Run the Project on Deepnote**: [Deepnote Link](https://deepnote.com/app/aplicadas3/IATaller1DavideFlaminiNicolasCuellar-e7d233be-0a34-41d0-b1e2-29a8a6bfe3d9?utm_content=e7d233be-0a34-41d0-b1e2-29a8a6bfe3d9&__run=true)
 
 ## 🛠 Skills
 - **Programming**: Python, SQL
